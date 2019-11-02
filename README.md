@@ -1,0 +1,1 @@
+Welcome! This is Rychu's first Git project! 
